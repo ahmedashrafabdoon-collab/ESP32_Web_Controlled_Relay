@@ -1,0 +1,51 @@
+body{
+
+
+background-color: darkolivegreen;
+
+
+
+}
+
+h1 {
+padding-top: 10px;
+padding-left: 30%;
+font-size: 50px;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+div {
+
+padding-left: 43%;
+padding-top: 5%;
+
+}
+
+
+button {
+
+width: 150px;
+height: 100px;
+border-radius: 30px;
+font-size: 40px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.onBu {
+
+background-color: green;
+
+
+}
+
+.offBu {
+
+
+background-color: red;
+
+
+}
