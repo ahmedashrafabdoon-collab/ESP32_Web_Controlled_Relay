@@ -30,12 +30,4 @@ The project allows users to turn a connected device ON and OFF remotely through 
 
 Watch the project demonstration:
 
-## 🎥 Demo Video
-
-Watch the project demonstration:
-
-## 🎥 Demo Video
-
-Watch the project demonstration:
-
 https://www.linkedin.com/posts/ahmed-ashraf-abdoun_iot-embeddedsystems-webserver-ugcPost-7490643336345710592-huwL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFzffFcBcJHshVkb0FFzBLMRdlbfaMp3SXY
