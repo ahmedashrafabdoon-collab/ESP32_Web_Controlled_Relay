@@ -4,6 +4,12 @@ A simple IoT project that demonstrates how to control a relay module using an ES
 
 The project allows users to turn a connected device ON and OFF remotely through a web interface built with HTML, CSS, and JavaScript.
 
+---
+## 📽️ Project Demo
+Check out the working video demonstration of the project:
+👉 **[Watch the Demo Video on LinkedIn](https://www.linkedin.com/posts/ahmed-ashraf-abdoun_iot-embeddedsystems-webserver-activity-7490643434047827969-Qqur?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFzffFcBcJHshVkb0FFzBLMRdlbfaMp3SXY)**
+---
+
 ## 🚀 Features
 
 - Control a relay module through a web browser
